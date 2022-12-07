@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lowvoljono
 - 👀 I’m interested in quantitative finance.
 - 🌱 I’m currently learning python and sql.
-- 💞️ I’m looking to collaborate on backtesting investment strategies
+- 💞️ I’m looking to collaborate on backtesting investment strategies, signal research, machine learning and time-series.
 - 📫 How to reach me ~ messages.
 
 <!---
